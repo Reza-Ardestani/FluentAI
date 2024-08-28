@@ -1,7 +1,7 @@
 ## FluentAI
 Disfluency Correction in Questions 
 
-<strong>⚠️ Please read the report in the documentation folder for  comprehensive analysis of the result, research steps, and development phases.</strong>
+<strong>⚠️ Please watch my 4-minute video in which I show how to run the code:</strong> [https://youtu.be/7sbDaeV0Vlw](https://youtu.be/7sbDaeV0Vlw)
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Disfluency Correction in Questions
 ## Development Summary
 ![Machine Learning Patterns and Principles](https://raw.githubusercontent.com/Reza-Ardestani/ConversationalAI/main/2_RAG_KnowledgeGraph_inventures_CaseStudy/2.0_data/ML_Patterns_Principles_big_pic.jpg)
 
-Following my Machine Learning Desing Patterns and Principles pipeline, Presented at Google Developer Groups, I reached near human performance on this task, disfluecny correction, within two rapid development cycles. In the follwoing subsections, I will present these two cycles, demostrate the result, and list future works. 
+Following my Machine Learning Desing Patterns and Principles pipeline, presented at Google Developer Groups, I reached near human performance on this task, disfluecny correction, within two rapid development cycles. In the follwoing subsections, I will present these two cycles, demostrate the result, and list future works. 
 <br>
 
 ### Sprint 1
@@ -71,7 +71,7 @@ Model version 2.2 achieves better performance on most metrics by using fewer bea
 <li>Implemented a secondary loss function to help the model consider semantic similarity.</li>
 
 
-## Running Models (demo.py)
+## Running Models
 
 Please download the models' weights from:<br>
 [Model V1.1](https://drive.google.com/file/d/1-1HTcfDnM532p9_GNLauD3VPtC3z1Huq/view?usp=share_link)
