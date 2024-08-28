@@ -9,6 +9,7 @@ Disfluency Correction in Questions
 - [Sprint 1](#sprint-1)
     - [Thematically analyzed 100 records](#thematically-analyzed-100-records)
     - [Filled Missing Values](#filled-missing-values)
+    - [Early Stopping](#early-stopping)
 - [Sprint 2](#sprint-2)
 - [Results Summary](#results-summary)
 - [Future Works](#future-works)
@@ -72,6 +73,10 @@ Your Task:
 Using one of the three categories of disfluency (Repetition, Correction, or Restarts), be creative and generate a only one disfluent version of the following original question:
 Original Question: [ENETER THE QUESTION HERE]
 ~~~
+
+
+### Early Stopping
+![Train and Validation Loss v2.1](train_validation_loss_v2.1.png)
 
 
 ## Sprint 2
