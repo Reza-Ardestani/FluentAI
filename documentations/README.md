@@ -76,7 +76,7 @@ Original Question: [ENETER THE QUESTION HERE]
 
 
 ### Early Stopping
-![Train and Validation Loss v2.1](train_validation_loss_v2.1.png)
+![Train and Validation Loss v2.1](imgs/train_validation_loss_v2.1.png)
 
 
 ## Sprint 2
