@@ -10,6 +10,7 @@ Disfluency Correction in Questions
     - [Thematically analyzed 100 records](#thematically-analyzed-100-records)
     - [Filled Missing Values](#filled-missing-values)
     - [Early Stopping](#early-stopping)
+    - [Exploratory Data Analyses](#exploratory-data-analyses)
 - [Sprint 2](#sprint-2)
 - [Results Summary](#results-summary)
 - [Future Works](#future-works)
@@ -78,6 +79,11 @@ Original Question: [ENETER THE QUESTION HERE]
 ### Early Stopping
 ![Train and Validation Loss v2.1](imgs/train_validation_loss_v2.1.png)
 
+### Exploratory Data Analyses
+ have conducted comprehensive Exploratory Data Analyses (EDA) to gain a deeper understanding of the dataset and uncover insights crucial for model optimization. Through this process, I was able to identify key characteristics of the data, which informed the selection of optimal hyperparameters such as the maximum input length, ultimately enhancing the model’s performance and efficiency.
+ The following picture shows the token lenght distribution in the dataset base on which I set the value for "max_input_lenght" hyper parameter.
+ 
+![max input lenght](imgs/Unknown-3.png)
 
 ## Sprint 2
 
