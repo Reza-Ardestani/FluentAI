@@ -1,0 +1,1202 @@
+{
+   "166": {
+      "disfluent": "#VALUE!",
+      "fluent": "Where are Jersey and Guernsey",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.0,
+      "blue_scores": [
+         0.0,
+         0.0,
+         0.0,
+         0.0
+      ]
+   },
+   "185": {
+      "disfluent": "#VALUE!",
+      "fluent": "Who experienced aa golden age in the 1100s and 1200s",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.0,
+      "blue_scores": [
+         0.0,
+         0.0,
+         0.0,
+         0.0
+      ]
+   },
+   "443": {
+      "disfluent": "#VALUE!",
+      "fluent": "In what expression can one expect to find DTIME(n)",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.0,
+      "blue_scores": [
+         0.0,
+         0.0,
+         0.0,
+         0.0
+      ]
+   },
+   "2288": {
+      "disfluent": "#VALUE!",
+      "fluent": "_____ Helps the biospher from UV.",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.0,
+      "blue_scores": [
+         0.0,
+         0.0,
+         0.0,
+         0.0
+      ]
+   },
+   "2916": {
+      "disfluent": "#VALUE!",
+      "fluent": "Name a luxury model that became popular in the mid-1970s.",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.0,
+      "blue_scores": [
+         0.0,
+         0.0,
+         0.0,
+         0.0
+      ]
+   },
+   "2794": {
+      "disfluent": "#VALUE!",
+      "fluent": "The oil crisis caused oil companies to increase oil supplies in which area?",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.02,
+      "blue_scores": [
+         9.090909090909092,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "2897": {
+      "disfluent": "#VALUE!",
+      "fluent": "Name an extra that was added to the production of the compacts.",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.021739130434782608,
+      "blue_scores": [
+         9.090909090909092,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "183": {
+      "disfluent": "#VALUE!",
+      "fluent": "Who began a program of church reform in the 1100s",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.02631578947368421,
+      "blue_scores": [
+         9.090909090909092,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "2698": {
+      "disfluent": "#VALUE!",
+      "fluent": "What was the oil crisis called",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.02631578947368421,
+      "blue_scores": [
+         9.090909090909092,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "2898": {
+      "disfluent": "#VALUE!",
+      "fluent": "Name a luxury division of Toyota.",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.02631578947368421,
+      "blue_scores": [
+         9.090909090909092,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "3621": {
+      "disfluent": "#VALUE!",
+      "fluent": "What was used to classify the Amazon population into four categories",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.02631578947368421,
+      "blue_scores": [
+         9.090909090909092,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "2212": {
+      "disfluent": "#VALUE!",
+      "fluent": "How much less steam did the Rumford engine use compared to the Watt engine?",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.037037037037037035,
+      "blue_scores": [
+         18.181818181818183,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "410": {
+      "disfluent": "What variable makes it easier to establish a framework for complexity classes no no tell me what variables caused difficulty in this situation?",
+      "fluent": "Difficulty in establishing a framework for complexity classes can be caused by what variable?",
+      "corrected": "What variables caused difficulty in this situation?",
+      "glue": 0.05555555555555555,
+      "blue_scores": [
+         37.5,
+         7.142857142857143,
+         4.166666666666667,
+         2.5
+      ]
+   },
+   "2287": {
+      "disfluent": "Which organic protein is used in photosynthesis to get oxygen from water no sorry not a organic protein but the energy used?",
+      "fluent": "Photosynthesis uses which energy to for oxygen from water?",
+      "corrected": "Which is the energy used in photosynthesis?",
+      "glue": 0.058823529411764705,
+      "blue_scores": [
+         25.0,
+         7.142857142857143,
+         4.166666666666667,
+         2.5
+      ]
+   },
+   "63": {
+      "disfluent": "#VALUE!",
+      "fluent": "What was the name of the count of Apulia ",
+      "corrected": "What type of number generators make use of prime numbers?",
+      "glue": 0.07894736842105263,
+      "blue_scores": [
+         27.272727272727273,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "686": {
+      "disfluent": "The name of the most prestigious prize in yachting geez the common name for the Transpacific Yacht Race is what?",
+      "fluent": "What is the shortened name of the annual yacht race that takes place?",
+      "corrected": "The common name for the Transpacific Yacht Race is what?",
+      "glue": 0.08,
+      "blue_scores": [
+         36.36363636363637,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "2445": {
+      "disfluent": "What engineer managed to make enough liquid oxygen to use for study no wait which chemist not engineer?",
+      "fluent": "What chemist managed to make enough liquid oxygen to use for study?",
+      "corrected": "What chemist did not engineer?",
+      "glue": 0.08695652173913043,
+      "blue_scores": [
+         50.0,
+         20.0,
+         12.5,
+         8.333333333333334
+      ]
+   },
+   "727": {
+      "disfluent": "What was defined as Southern California in terms of inclusion no which newspaper did it?",
+      "fluent": "Which newspaper defined southern California?",
+      "corrected": "What newspaper published Southern California in terms of inclusion?",
+      "glue": 0.08823529411764706,
+      "blue_scores": [
+         30.0,
+         5.555555555555555,
+         3.125,
+         1.7857142857142858
+      ]
+   },
+   "937": {
+      "disfluent": "Which college's mascot is known as the Trojans or rather the Bruins?",
+      "fluent": "The Bruins belong to which college?",
+      "corrected": "Which college's mascot is known as the Bruins?",
+      "glue": 0.08823529411764706,
+      "blue_scores": [
+         22.22222222222222,
+         6.25,
+         3.5714285714285716,
+         2.0833333333333335
+      ]
+   },
+   "1590": {
+      "disfluent": "As colonists, how many Huguenots no they were restricted in terms of travel by the revocation how?",
+      "fluent": "How did the revocation restrict Huguenot travel?",
+      "corrected": "As colonists, they were restricted in terms of travel by the revocation how?",
+      "glue": 0.09259259259259259,
+      "blue_scores": [
+         26.666666666666668,
+         7.142857142857143,
+         3.8461538461538463,
+         2.0833333333333335
+      ]
+   },
+   "3421": {
+      "disfluent": "What do all scientists claim about the rainforest no rather what are some of their arguments?",
+      "fluent": "What are some of scientists arguments? ",
+      "corrected": "What do all scientists claim about the rainforest?",
+      "glue": 0.1,
+      "blue_scores": [
+         33.333333333333336,
+         6.25,
+         3.5714285714285716,
+         2.0833333333333335
+      ]
+   },
+   "667": {
+      "disfluent": "What are Los Angeles, Orange, San Diego, San Bernardino and Lakeside oops uh Riverside?",
+      "fluent": "What are Los Angeles, Orange, San Diego, San Bernardino and Riverside?",
+      "corrected": "What are Riverside?",
+      "glue": 0.1111111111111111,
+      "blue_scores": [
+         100.0,
+         66.66666666666667,
+         25.0,
+         25.0
+      ]
+   },
+   "795": {
+      "disfluent": "How did or no actually, the UGSS released what?",
+      "fluent": "What did the UGSS release?",
+      "corrected": "The UGSS released what?",
+      "glue": 0.1111111111111111,
+      "blue_scores": [
+         40.0,
+         12.5,
+         8.333333333333334,
+         6.25
+      ]
+   },
+   "460": {
+      "disfluent": "What types of reduction sorry let me rephrase that what does reduction convert a one problem to?",
+      "fluent": "Reduction essentially takes one problem and converts into what?",
+      "corrected": "What does reduction convert a one problem to?",
+      "glue": 0.11764705882352941,
+      "blue_scores": [
+         33.333333333333336,
+         12.5,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "3117": {
+      "disfluent": "Solange I and Solange II views on the European Constitutional no sorry not European but the German Constitutional Court did not include what?",
+      "fluent": "What was not the view of the German Constitutional Court from Solange I and Solange II?",
+      "corrected": "The German Constitutional Court did not include what?",
+      "glue": 0.12903225806451613,
+      "blue_scores": [
+         55.55555555555556,
+         25.0,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "1689": {
+      "disfluent": "In which colony no no what country did Pierre L'Oyseleur come from?",
+      "fluent": "What nationality was Pierre L'Oyseleur?",
+      "corrected": "In what country did Pierre L'Oyseleur come from?",
+      "glue": 0.13333333333333333,
+      "blue_scores": [
+         33.333333333333336,
+         12.5,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "2289": {
+      "disfluent": "What process is found in most organic organisms ahh actually the name of the element not the process?",
+      "fluent": "What element is found in most organic organisms?",
+      "corrected": "What is the name of the element?",
+      "glue": 0.13333333333333333,
+      "blue_scores": [
+         50.0,
+         7.142857142857143,
+         4.166666666666667,
+         2.5
+      ]
+   },
+   "2264": {
+      "disfluent": "How does no no what is the meaning of isobaric?",
+      "fluent": "What does isobaric mean?",
+      "corrected": "What is the meaning of isobaric?",
+      "glue": 0.13636363636363635,
+      "blue_scores": [
+         42.857142857142854,
+         8.333333333333334,
+         5.0,
+         3.125
+      ]
+   },
+   "424": {
+      "disfluent": "What thesis specifies that a polynomial relationship exists within time complexities in a computational model no sorry I want to know the thesis that specifies a trinomial?",
+      "fluent": "What thesis specifies that a trinomial relationship exists within time complexities in a computational model?",
+      "corrected": "What is the thesis that specifies a trinomial?",
+      "glue": 0.13793103448275862,
+      "blue_scores": [
+         77.77777777777777,
+         12.5,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "1972": {
+      "disfluent": "What part is added to the uniflow engine no what the uniflow engine's name that takes in steam in hot areas and exhausts it in the cold is what?",
+      "fluent": "What is the name of a uniflow engine that takes in steam in hot areas and exhausts it in cold?",
+      "corrected": "What is the uniflow engine's name?",
+      "glue": 0.14102564102564102,
+      "blue_scores": [
+         85.71428571428571,
+         33.333333333333336,
+         20.0,
+         12.5
+      ]
+   },
+   "1694": {
+      "disfluent": "What happened before the passage of the Foreign Protestants Naturalization Act act or rather when was it passed?",
+      "fluent": "When was this naturalization act passed?",
+      "corrected": "When was the passage of the Foreign Protestants Naturalization Act passed?",
+      "glue": 0.14285714285714285,
+      "blue_scores": [
+         33.333333333333336,
+         18.181818181818183,
+         5.0,
+         2.7777777777777777
+      ]
+   },
+   "2605": {
+      "disfluent": "When is it that oxygen therapy is needed no no what is the name of the process where oxygen is essential?",
+      "fluent": "In what process is the uptake from oxygen necessary?",
+      "corrected": "What is the name of the process where oxygen is essential?",
+      "glue": 0.14285714285714285,
+      "blue_scores": [
+         41.666666666666664,
+         9.090909090909092,
+         5.0,
+         2.7777777777777777
+      ]
+   },
+   "2876": {
+      "disfluent": "What exposed the insecurity of the Middle East like which country was invaded that showed insecurity in the region?",
+      "fluent": "Which country's invasion show the insecurity of the Middle East?",
+      "corrected": "Which country was invaded that showed insecurity in the region?",
+      "glue": 0.14285714285714285,
+      "blue_scores": [
+         36.36363636363637,
+         5.0,
+         2.7777777777777777,
+         1.5625
+      ]
+   },
+   "940": {
+      "disfluent": "Which NCAA conference or I guess division do the two listed team play in?",
+      "fluent": "The two listed teams play for which NCAA group?",
+      "corrected": "Which division do the two listed team play in?",
+      "glue": 0.14705882352941177,
+      "blue_scores": [
+         40.0,
+         11.11111111111111,
+         6.25,
+         3.5714285714285716
+      ]
+   },
+   "943": {
+      "disfluent": "What conference are southern Californian teams or rather which conference is UCLA and USC in?",
+      "fluent": "What conference are both ULCA and UCS part of?",
+      "corrected": "What conference is UCLA and USC in?",
+      "glue": 0.14705882352941177,
+      "blue_scores": [
+         50.0,
+         14.285714285714286,
+         8.333333333333334,
+         5.0
+      ]
+   },
+   "3608": {
+      "disfluent": "What kind of devices or make that what are indigenous tribes using on-site sensing for?",
+      "fluent": "On-site sensing is being used by indigenous tribes for what",
+      "corrected": "What are indigenous tribes using on-site sensing for?",
+      "glue": 0.14705882352941177,
+      "blue_scores": [
+         44.44444444444444,
+         12.5,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "2497": {
+      "disfluent": "What is a name given to several higher-energy species I meant to say is paired with oxygen?",
+      "fluent": "What is paired oxygen?",
+      "corrected": "What is a name given to several higher-energy species paired with oxygen?",
+      "glue": 0.15217391304347827,
+      "blue_scores": [
+         38.46153846153846,
+         16.666666666666668,
+         4.545454545454546,
+         2.5
+      ]
+   },
+   "144": {
+      "disfluent": "How long did Cyprus no Western Europe control Cyprus?",
+      "fluent": "Who dominated Western Europe for 380 years?",
+      "corrected": "How long did Western Europe control Cyprus?",
+      "glue": 0.15384615384615385,
+      "blue_scores": [
+         37.5,
+         14.285714285714286,
+         8.333333333333334,
+         5.0
+      ]
+   },
+   "117": {
+      "disfluent": "When did who was Edgar's spouse?",
+      "fluent": "Who did Edgar marry?",
+      "corrected": "Who was Edgar's spouse?",
+      "glue": 0.16666666666666666,
+      "blue_scores": [
+         40.0,
+         12.5,
+         8.333333333333334,
+         6.25
+      ]
+   },
+   "675": {
+      "disfluent": "What is the name given to the district no the company that owns ABC?",
+      "fluent": "Which company owns ABC?",
+      "corrected": "What is the name given to the company that owns ABC?",
+      "glue": 0.16666666666666666,
+      "blue_scores": [
+         33.333333333333336,
+         18.181818181818183,
+         10.0,
+         5.555555555555555
+      ]
+   },
+   "2206": {
+      "disfluent": "In what year was Corliss given no no what award did he get?",
+      "fluent": "What award was given to Corliss?",
+      "corrected": "In what year was Corliss given an award?",
+      "glue": 0.16666666666666666,
+      "blue_scores": [
+         55.55555555555556,
+         6.25,
+         3.5714285714285716,
+         2.0833333333333335
+      ]
+   },
+   "1582": {
+      "disfluent": "The edict protected Catholics how or well what did it do for Huguenots in France?",
+      "fluent": "What did the Edict do for Huguenots in France?",
+      "corrected": "The edict protected Catholics in France?",
+      "glue": 0.17647058823529413,
+      "blue_scores": [
+         42.857142857142854,
+         33.333333333333336,
+         20.0,
+         12.5
+      ]
+   },
+   "843": {
+      "disfluent": "What major industries has the region been known for since no first the agricultural region has been known for what livestock?",
+      "fluent": "Which type of livestock was the argricultural region known for?",
+      "corrected": "What livestock has the agricultural region been known for since?",
+      "glue": 0.18421052631578946,
+      "blue_scores": [
+         54.54545454545455,
+         10.0,
+         5.555555555555555,
+         3.125
+      ]
+   },
+   "2301": {
+      "disfluent": "In which year did John Boyle die no wait John Mayow not Boyle?",
+      "fluent": "John Mayow died in what year?",
+      "corrected": "In which year did John Mayow die?",
+      "glue": 0.19230769230769232,
+      "blue_scores": [
+         50.0,
+         14.285714285714286,
+         8.333333333333334,
+         5.0
+      ]
+   },
+   "3544": {
+      "disfluent": "Which insects er actually what do vampire bats not spread?",
+      "fluent": "Vampire bats do not actually spread what?",
+      "corrected": "What do vampire bats not spread?",
+      "glue": 0.19230769230769232,
+      "blue_scores": [
+         71.42857142857143,
+         8.333333333333334,
+         5.0,
+         3.125
+      ]
+   },
+   "2338": {
+      "disfluent": "What is needed to make combustion rather what role in combustion does oxygen play?",
+      "fluent": "Combustion is caused by an oxidant and a fuel. What role does oxygen play in combustion?",
+      "corrected": "What role in combustion does oxygen play?",
+      "glue": 0.19696969696969696,
+      "blue_scores": [
+         100.0,
+         57.142857142857146,
+         16.666666666666668,
+         10.0
+      ]
+   },
+   "2802": {
+      "disfluent": "The UK and France had no interruptions in their oil supply, which country did they allow no wait deny use of their airfield?",
+      "fluent": "The UK and France had non interruptions in their oil supply as they did not allow which country to use their airfield?",
+      "corrected": "The UK and France denied use of their airfield?",
+      "glue": 0.19767441860465115,
+      "blue_scores": [
+         80.0,
+         55.55555555555556,
+         37.5,
+         14.285714285714286
+      ]
+   },
+   "2028": {
+      "disfluent": "When was the high pressure compound engine patented or rather who not when?",
+      "fluent": "Who patented a high-pressure compound engine in 1805?",
+      "corrected": "Who was the high pressure compound engine patented?",
+      "glue": 0.2,
+      "blue_scores": [
+         55.55555555555556,
+         12.5,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "2874": {
+      "disfluent": "When was Japan declared a non friendly country, no wait, when did Israel ?",
+      "fluent": "When was Israel declared a nonfriendly country?",
+      "corrected": "When did Israel declare a non friendly country?",
+      "glue": 0.2,
+      "blue_scores": [
+         55.55555555555556,
+         12.5,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "1619": {
+      "disfluent": "Where is or no rather what is the name of the Virginia historic shrine that is maintained by the Huguenots society?",
+      "fluent": "What church in Virginia is maintained by Huguenots as a historic shrine?",
+      "corrected": "What is the name of the Virginia historic shrine that is maintained by the Huguenots society?",
+      "glue": 0.20967741935483872,
+      "blue_scores": [
+         52.94117647058823,
+         18.75,
+         6.666666666666667,
+         3.5714285714285716
+      ]
+   },
+   "1080": {
+      "disfluent": "Sentanta Sports planned to sorry let me rephrase that which platform did Sentanta Sports plan not to launch on?",
+      "fluent": "What platform was Sentanta Sports planning to avoid launching on?",
+      "corrected": "Which platform did Sentanta Sports plan not to launch on?",
+      "glue": 0.21052631578947367,
+      "blue_scores": [
+         54.54545454545455,
+         20.0,
+         5.555555555555555,
+         3.125
+      ]
+   },
+   "1337": {
+      "disfluent": "What Australian city is renowned for dairy farming no wait state not city?",
+      "fluent": "What state in Australia is the center of dairy farming?",
+      "corrected": "What Australian city is renowned for dairy farming?",
+      "glue": 0.21052631578947367,
+      "blue_scores": [
+         55.55555555555556,
+         25.0,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "2385": {
+      "disfluent": "What distinct quality of combustion was present in phlogiston theory no wait what quality was absent?",
+      "fluent": "What distinct quality of combustion was  absent from philogiston theory? ",
+      "corrected": "What quality was absent in phlogiston theory?",
+      "glue": 0.21052631578947367,
+      "blue_scores": [
+         75.0,
+         28.571428571428573,
+         8.333333333333334,
+         5.0
+      ]
+   },
+   "3135": {
+      "disfluent": "In generally, which court of justice no let me rephrase, what prevents citizens from suing other citizens?",
+      "fluent": "What generally does not allow citizens to sue other citizens?",
+      "corrected": "What prevents citizens from suing other citizens?",
+      "glue": 0.21052631578947367,
+      "blue_scores": [
+         62.5,
+         28.571428571428573,
+         16.666666666666668,
+         10.0
+      ]
+   },
+   "871": {
+      "disfluent": "What rapidly developing business center that includes Downtown Santa Ana no that does not include Downtown Santa Ana or Newport Center but is in Orange County?",
+      "fluent": "What other business district does Orange County envelop outside of Downtown Santa Ana and Newport Center?",
+      "corrected": "What rapidly developing business center does not include Downtown Santa Ana or Newport Center but is in Orange County?",
+      "glue": 0.21621621621621623,
+      "blue_scores": [
+         55.0,
+         21.05263157894737,
+         5.555555555555555,
+         2.9411764705882355
+      ]
+   },
+   "2257": {
+      "disfluent": "What does the steam I mean what is heated by nuclear power pants in order to produce steam turbines?",
+      "fluent": "What do nuclear power plants heat to create steam turbines?",
+      "corrected": "What is heated by nuclear power pants in order to produce steam turbines?",
+      "glue": 0.22,
+      "blue_scores": [
+         50.0,
+         23.076923076923077,
+         8.333333333333334,
+         4.545454545454546
+      ]
+   },
+   "1662": {
+      "disfluent": "Where was Fort Caroline I mean from where did the Huguenots from Normandy sail to get to Fort Caroline?",
+      "fluent": "From where had the Norman Huguenots sailed in order to arrive at Fort Caroline?",
+      "corrected": "From where did the Huguenots from Normandy sail to get to Fort Caroline?",
+      "glue": 0.2222222222222222,
+      "blue_scores": [
+         57.142857142857146,
+         23.076923076923077,
+         8.333333333333334,
+         4.545454545454546
+      ]
+   },
+   "757": {
+      "disfluent": "In 1980, who or no make that what was developed ?",
+      "fluent": "What was developed in 1980?",
+      "corrected": "In 1980, what was developed?",
+      "glue": 0.22727272727272727,
+      "blue_scores": [
+         57.142857142857146,
+         16.666666666666668,
+         10.0,
+         6.25
+      ]
+   },
+   "1495": {
+      "disfluent": "How many Huguenots oh that's not right how did they defend themselves?",
+      "fluent": "How did the Huguenots defend themselves?",
+      "corrected": "How many Huguenots defended themselves?",
+      "glue": 0.22727272727272727,
+      "blue_scores": [
+         66.66666666666667,
+         20.0,
+         12.5,
+         8.333333333333334
+      ]
+   },
+   "1772": {
+      "disfluent": "Who helped the Huguenots purchase the land no who did they purchase the tract from after landing on the coastline peninsula of Davensports Neck?",
+      "fluent": "From whom did the Huguenots purchase the land where they settled?",
+      "corrected": "Who did the Huguenots purchase the tract from after landing on the coastline peninsula of Davensports Neck?",
+      "glue": 0.22727272727272727,
+      "blue_scores": [
+         33.333333333333336,
+         23.529411764705884,
+         18.75,
+         13.333333333333334
+      ]
+   },
+   "1911": {
+      "disfluent": "Why rather by whom was the piston conceptualized?",
+      "fluent": "Who conceptualized the piston?",
+      "corrected": "By whom was the piston conceptualized?",
+      "glue": 0.22727272727272727,
+      "blue_scores": [
+         57.142857142857146,
+         16.666666666666668,
+         10.0,
+         6.25
+      ]
+   },
+   "2944": {
+      "disfluent": "Which no rather what laws govern the European Union?",
+      "fluent": "What is European Union law?",
+      "corrected": "What laws govern the European Union?",
+      "glue": 0.22727272727272727,
+      "blue_scores": [
+         57.142857142857146,
+         16.666666666666668,
+         10.0,
+         6.25
+      ]
+   },
+   "2340": {
+      "disfluent": "What is the type of compound that peroxides, nitrates, I mean the one that isn't a fuel and generates the most occurence of explosions?",
+      "fluent": "Although not a fuel  ___ is the chemical compound the generates the most occurrence of explosions.",
+      "corrected": "What is the type of compound that isn't a fuel and generates the most occurence of explosions?",
+      "glue": 0.22857142857142856,
+      "blue_scores": [
+         55.55555555555556,
+         29.41176470588235,
+         6.25,
+         3.3333333333333335
+      ]
+   },
+   "1466": {
+      "disfluent": "When did the Huguenots where rather in South Carolina did their nobility settle?",
+      "fluent": "Where in South Carolina did Huguenot nobility settle?",
+      "corrected": "When did the Huguenots nobility settle?",
+      "glue": 0.23333333333333334,
+      "blue_scores": [
+         57.142857142857146,
+         33.333333333333336,
+         20.0,
+         12.5
+      ]
+   },
+   "1542": {
+      "disfluent": "The gate is haunted by who well no what other name really was it known by?",
+      "fluent": "By what other name was the Gate known?",
+      "corrected": "The gate is haunted by what other name?",
+      "glue": 0.23333333333333334,
+      "blue_scores": [
+         44.44444444444444,
+         25.0,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "1711": {
+      "disfluent": "What did the Huguenots do for William of Orange in the Williamite war no who settled in Dublin contribute?",
+      "fluent": "What did the Huguenots who settled in Dublin contribute?",
+      "corrected": "Who settled in Dublin in the Williamite war?",
+      "glue": 0.23529411764705882,
+      "blue_scores": [
+         55.55555555555556,
+         25.0,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "2646": {
+      "disfluent": "Oxygen can be found in solvents but how or no rather which compounds contain oxygen?",
+      "fluent": "What compounds contain oxygen?",
+      "corrected": "Oxygen can be found in solvents but which compounds contain oxygen?",
+      "glue": 0.23809523809523808,
+      "blue_scores": [
+         33.333333333333336,
+         27.272727272727273,
+         20.0,
+         11.11111111111111
+      ]
+   },
+   "574": {
+      "disfluent": "What unknown variation of arithmetic presents a decision problem not evidenced in P no sorry what eponymous variation not an unknown variation?",
+      "fluent": "What eponymous variation of arithmetic presents a decision problem not evidenced in P?",
+      "corrected": "What is an eponymous variation of arithmetic?",
+      "glue": 0.24,
+      "blue_scores": [
+         75.0,
+         42.857142857142854,
+         33.333333333333336,
+         20.0
+      ]
+   },
+   "1596": {
+      "disfluent": "Apart from England no no which country became famous for providing a Protestant education? \",\" What country was very well known for proving no offering a Catholics no Protestant education?",
+      "fluent": "What country was very well known for offering a Protestant education?",
+      "corrected": "Apart from England, which country became famous for providing a Protestant education?",
+      "glue": 0.24,
+      "blue_scores": [
+         42.857142857142854,
+         23.076923076923077,
+         16.666666666666668,
+         9.090909090909092
+      ]
+   },
+   "2222": {
+      "disfluent": "What concept is it that Black discovered well, really after it was discovered by Watt?",
+      "fluent": "What concept, originally discovered by Watt, was later discovered independently by Black?",
+      "corrected": "What concept is it that Black discovered after it was discovered by Watt?",
+      "glue": 0.24074074074074073,
+      "blue_scores": [
+         64.28571428571429,
+         23.076923076923077,
+         8.333333333333334,
+         4.545454545454546
+      ]
+   },
+   "1014": {
+      "disfluent": "What year did, oh, actually I wanted to as what did Microsoft say they're changing the name of OneDrive to?",
+      "fluent": "What did Microsoft announce that it would rename OneDrive to?",
+      "corrected": "What did Microsoft say they're changing the name of OneDrive to?",
+      "glue": 0.2608695652173913,
+      "blue_scores": [
+         50.0,
+         36.36363636363637,
+         20.0,
+         5.555555555555555
+      ]
+   },
+   "1040": {
+      "disfluent": "When is the Sky Q UHD broadcasts going to be introduced no no I want to know when their new products will be available?",
+      "fluent": "When are the new Sky Q products going to be available?",
+      "corrected": "When will the Sky Q UHD broadcasts be available?",
+      "glue": 0.2619047619047619,
+      "blue_scores": [
+         70.0,
+         33.333333333333336,
+         12.5,
+         7.142857142857143
+      ]
+   },
+   "3008": {
+      "disfluent": "How were the Danish no I mean Canadian Union's principle treaties begun?",
+      "fluent": "How did the principle treaties that form the Canadian Union begin?",
+      "corrected": "How were the Canadian Union's principle treaties begun?",
+      "glue": 0.2619047619047619,
+      "blue_scores": [
+         66.66666666666667,
+         25.0,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "3363": {
+      "disfluent": "What percentage of rainforests remains on the planet no scratch that what percentage does the Amazon represent?",
+      "fluent": "What percentage does the Amazon represents in rainforests on the planet?",
+      "corrected": "What percentage of rainforests does the Amazon represent?",
+      "glue": 0.2619047619047619,
+      "blue_scores": [
+         77.77777777777777,
+         37.5,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "1526": {
+      "disfluent": "How do you no wait what is the distance between New Paltz and New York?",
+      "fluent": "How far is New Paltz from New York?",
+      "corrected": "What is the distance between New Paltz and New York?",
+      "glue": 0.2631578947368421,
+      "blue_scores": [
+         54.54545454545455,
+         30.0,
+         11.11111111111111,
+         6.25
+      ]
+   },
+   "3403": {
+      "disfluent": "Where did it split in the direction of its flow sorry where did it join?",
+      "fluent": "Where did it join in the direction of its flow?",
+      "corrected": "Where did it join ",
+      "glue": 0.2631578947368421,
+      "blue_scores": [
+         100.0,
+         100.0,
+         100.0,
+         100.0
+      ]
+   },
+   "2543": {
+      "disfluent": "Why does element used as a coolant um no the O2 appear red?",
+      "fluent": "Why does the O2 appear red?",
+      "corrected": "Why does element used as a coolant appear red?",
+      "glue": 0.2647058823529412,
+      "blue_scores": [
+         50.0,
+         33.333333333333336,
+         12.5,
+         7.142857142857143
+      ]
+   },
+   "2977": {
+      "disfluent": "European Union law is interpreted by where or actually what court?",
+      "fluent": "What court is able to interpret European Union law?",
+      "corrected": "European Union law is interpreted by what court?",
+      "glue": 0.2647058823529412,
+      "blue_scores": [
+         66.66666666666667,
+         25.0,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "1230": {
+      "disfluent": "How much of Australian grains come from Victoria no sorry pears not grains?",
+      "fluent": "How much does Victoria produce in Australian pears?",
+      "corrected": "How much of Australian pears come from Victoria?",
+      "glue": 0.26666666666666666,
+      "blue_scores": [
+         66.66666666666667,
+         25.0,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "1455": {
+      "disfluent": "Who led the North American Huguenots I mean when did they colonize there?",
+      "fluent": "When did Huguenots colonize in North America?",
+      "corrected": "When did the North American Huguenots colonize there?",
+      "glue": 0.26666666666666666,
+      "blue_scores": [
+         66.66666666666667,
+         25.0,
+         7.142857142857143,
+         4.166666666666667
+      ]
+   },
+   "1690": {
+      "disfluent": "In what county was the town of Delft no the colony?",
+      "fluent": "In what colony was the town of Delft?",
+      "corrected": "In what county was the colony?",
+      "glue": 0.26666666666666666,
+      "blue_scores": [
+         85.71428571428571,
+         33.333333333333336,
+         10.0,
+         6.25
+      ]
+   },
+   "1703": {
+      "disfluent": "In which war did England feature Huguenot regiments no not England but Ireland?",
+      "fluent": "What war in Ireland featured Huguenot regiments?",
+      "corrected": "In which war did Ireland feature Huguenot regiments?",
+      "glue": 0.26666666666666666,
+      "blue_scores": [
+         55.55555555555556,
+         25.0,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "2835": {
+      "disfluent": "Simon was named as what in 1973, or Nixon rather, what was he named?",
+      "fluent": "In 1973 what was Nixon named as?",
+      "corrected": "Simon was named as what in 1973?",
+      "glue": 0.2692307692307692,
+      "blue_scores": [
+         75.0,
+         14.285714285714286,
+         8.333333333333334,
+         5.0
+      ]
+   },
+   "3004": {
+      "disfluent": "When year was the Treaty of Rome signed no wait the Maastricht treaty?",
+      "fluent": "When year was the Maastrich Treaty signed?",
+      "corrected": "When was the Maastricht treaty signed?",
+      "glue": 0.2692307692307692,
+      "blue_scores": [
+         71.42857142857143,
+         33.333333333333336,
+         10.0,
+         6.25
+      ]
+   },
+   "3599": {
+      "disfluent": "What are where are community-based conservation efforts being replaced?",
+      "fluent": "Community-based conservation efforts are being replaced where",
+      "corrected": "Where are community-based conservation efforts being replaced?",
+      "glue": 0.2692307692307692,
+      "blue_scores": [
+         62.5,
+         28.571428571428573,
+         8.333333333333334,
+         5.0
+      ]
+   },
+   "1198": {
+      "disfluent": "How many Buddhist Victorians are no Catholic ones are there?",
+      "fluent": "How many Victorians are Catholic?",
+      "corrected": "How many Catholic ones are there?",
+      "glue": 0.2727272727272727,
+      "blue_scores": [
+         71.42857142857143,
+         16.666666666666668,
+         10.0,
+         6.25
+      ]
+   },
+   "2176": {
+      "disfluent": "In a conventional reciprocating steam engine, who invented I mean what parts were no longer necessary in a pistonless rotary engine?",
+      "fluent": "What parts of a conventional reciprocating steam engine could be replaced by a pistonless rotary engine?",
+      "corrected": "What parts were no longer necessary in a pistonless rotary engine?",
+      "glue": 0.27419354838709675,
+      "blue_scores": [
+         58.333333333333336,
+         45.45454545454545,
+         30.0,
+         22.22222222222222
+      ]
+   },
+   "1365": {
+      "disfluent": "What was the incident over taxes that was an armed protest at Ballarat called no when was it?",
+      "fluent": "When was there a armed protest at Ballarat about mining taxes?",
+      "corrected": "When was the incident over taxes that was an armed protest at Ballarat called?",
+      "glue": 0.2777777777777778,
+      "blue_scores": [
+         53.333333333333336,
+         28.571428571428573,
+         15.384615384615385,
+         8.333333333333334
+      ]
+   },
+   "2675": {
+      "disfluent": "What causes no damage due to the low total pressures used er no measures at 1.4 kPa?",
+      "fluent": "What measures at 1.4 kPa?",
+      "corrected": "What causes no damage due to the low total pressures measures at 1.4 kPa?",
+      "glue": 0.2777777777777778,
+      "blue_scores": [
+         40.0,
+         28.571428571428573,
+         23.076923076923077,
+         16.666666666666668
+      ]
+   },
+   "3541": {
+      "disfluent": "What are among the largest no the smallest predatory creatures are the black Caiman and what?",
+      "fluent": "Among the smallest predatory creatures are the black Caiman and what?",
+      "corrected": "What are among the smallest predatory creatures?",
+      "glue": 0.2857142857142857,
+      "blue_scores": [
+         75.0,
+         42.857142857142854,
+         33.333333333333336,
+         20.0
+      ]
+   },
+   "1706": {
+      "disfluent": "Which Irish Huguenots I mean in Killeshandra and County Cavan expanded what the type of agriculture?",
+      "fluent": "Huguenots in Killeshandra and County Cavan expanded what agricultural industry?",
+      "corrected": "What type of agriculture did Killeshandra and County Cavan expand?",
+      "glue": 0.2894736842105263,
+      "blue_scores": [
+         45.45454545454545,
+         30.0,
+         22.22222222222222,
+         12.5
+      ]
+   },
+   "1764": {
+      "disfluent": "What did Louis XIV hope to force by allowing actually tell me the occupation and looting of Huguenot homes it was called what?",
+      "fluent": "The practice of occupying and looting Huguenot homes was called?",
+      "corrected": "What was the occupation and looting of Huguenot homes called?",
+      "glue": 0.2894736842105263,
+      "blue_scores": [
+         72.72727272727273,
+         30.0,
+         5.555555555555555,
+         3.125
+      ]
+   },
+   "2855": {
+      "disfluent": "What are no I mean how are the results for renewable energy policies?",
+      "fluent": "What are the results of policies that use renewable energy?",
+      "corrected": "How are the results for renewable energy policies?",
+      "glue": 0.2894736842105263,
+      "blue_scores": [
+         77.77777777777777,
+         37.5,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "1954": {
+      "disfluent": "What degree in a 4 cylinder compound engine were the pistons make that two cylinder connected to the cranks?",
+      "fluent": "At what degree are the pistons of a two-cylinder compound connected to the cranks?",
+      "corrected": "What degree in a 4 cylinder compound engine were the two cylinder connected to the cranks?",
+      "glue": 0.2903225806451613,
+      "blue_scores": [
+         52.94117647058823,
+         25.0,
+         20.0,
+         14.285714285714286
+      ]
+   },
+   "1742": {
+      "disfluent": "Wehn did Jacques Lefevre rather when did this leader publish a French Language bible?",
+      "fluent": "When did this leader publish a French language Bible?",
+      "corrected": "When did Jacques Lefevre publish a French Language bible?",
+      "glue": 0.29411764705882354,
+      "blue_scores": [
+         60.0,
+         33.333333333333336,
+         12.5,
+         7.142857142857143
+      ]
+   },
+   "2440": {
+      "disfluent": "What is oxygen I mean it's purpose to animal life?",
+      "fluent": "For what purpose is oxygen used by animal life?",
+      "corrected": "What is oxygen's purpose to animal life?",
+      "glue": 0.29411764705882354,
+      "blue_scores": [
+         62.5,
+         28.571428571428573,
+         16.666666666666668,
+         10.0
+      ]
+   },
+   "854": {
+      "disfluent": "What does many major business districts no CDB include?",
+      "fluent": "What does CDB include?",
+      "corrected": "What does many major business districts CDB include?",
+      "glue": 0.3,
+      "blue_scores": [
+         55.55555555555556,
+         37.5,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "1562": {
+      "disfluent": "Where is D'Olier Street or no make that French Church Street is where in Ireland?",
+      "fluent": "French Church Street is in what Irish town?",
+      "corrected": "Where is French Church Street where in Ireland?",
+      "glue": 0.3,
+      "blue_scores": [
+         66.66666666666667,
+         25.0,
+         14.285714285714286,
+         8.333333333333334
+      ]
+   },
+   "1420": {
+      "disfluent": "In what year did Swiss politician Bescancon Hugues die no not die was born?",
+      "fluent": "In what year was Swiss politician Besancon Hugues born?",
+      "corrected": "In what year did Swiss politician Bescancon Hugues not die was born?",
+      "glue": 0.30434782608695654,
+      "blue_scores": [
+         69.23076923076923,
+         33.333333333333336,
+         9.090909090909092,
+         5.0
+      ]
+   },
+   "2071": {
+      "disfluent": "What type of engines were widely used after turbine engines, no sorry, I mean electric?",
+      "fluent": "What type of engines became popular for power generation after electric engines?",
+      "corrected": "What type of engines were widely used after electric?",
+      "glue": 0.30434782608695654,
+      "blue_scores": [
+         70.0,
+         44.44444444444444,
+         25.0,
+         14.285714285714286
+      ]
+   }
+}
