@@ -101,12 +101,16 @@ Original Question: [ENETER THE QUESTION HERE]
 
 [2] My toturial: [https://youtu.be/wIkIxrsnUs8?si=3NtkXKgC87_Y7w2H&t=1515](https://youtu.be/wIkIxrsnUs8?si=3NtkXKgC87_Y7w2H&t=1515)
 
-[3] Nomic AI: https://huggingface.co/nomic-ai/nomic-embed-text-v1 </li>
-[4] BLEU score formula: https://www.youtube.com/watch?v=DejHQYAGb7Q&t=646s </li>
-[5] GLEU score: https://www.nltk.org/api/nltk.translate.gleu_score.html </li>
+[3] Nomic AI: https://huggingface.co/nomic-ai/nomic-embed-text-v1 
 
-[6] Exploring the applicability of RL in this task: https://ar5iv.labs.arxiv.org/html/2305.14483</li>
-[7] Exploring the applicability of RL in this task: https://ar5iv.labs.arxiv.org/html/2310.08944</li>
+[4] BLEU score formula: https://www.youtube.com/watch?v=DejHQYAGb7Q&t=646s 
+
+[5] GLEU score: https://www.nltk.org/api/nltk.translate.gleu_score.html 
+
+[6] Exploring the applicability of RL in this task: https://ar5iv.labs.arxiv.org/html/2305.14483
+
+[7] Exploring the applicability of RL in this task: https://ar5iv.labs.arxiv.org/html/2310.08944
+
 
 <br>
 <br>
