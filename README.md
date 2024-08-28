@@ -65,10 +65,10 @@ Model version 2.2 achieves better performance on most metrics by using fewer bea
 
 ### Future Works
 
-<li>Conducted a manual disfluency correction on a sample of test records to establish human-level performance on each metric.</li>
-<li>Performed data augmentation with a focus on coreference resolution.</li>
-<li>Used model confidence to flag anomalies or out-of-distribution data at inference time.</li>
-<li>Implemented a secondary loss function to help the model consider semantic similarity.</li>
+<li>Conducting a manual disfluency correction on a sample of test records to establish human-level performance on each metric.</li>
+<li>Performing data augmentation with a focus on coreference resolution.</li>
+<li>Using model confidence to flag anomalies or out-of-distribution data at inference time.</li>
+<li>Implementing a secondary loss function to help the model consider semantic similarity.</li>
 
 
 ## Running Models
