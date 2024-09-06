@@ -12,15 +12,20 @@ Disfluency Correction in Questions
     - [Early Stopping](#early-stopping)
     - [Exploratory Data Analyses](#exploratory-data-analyses)
 - [Sprint 2](#sprint-2)
+     - [Semantic Similarity](#semantic-similarity)
 - [Results Summary](#results-summary)
 - [Future Works](#future-works)
 - [References](#references)
 
 
 ## Preliminary Research
-.
 
-## Development Summary
+I began my research by studying the DISFL-QA dataset for understanding disfluencies in question answering [1], which inspired me to explore two primary approaches to address disfluency: classification and sequence-to-sequence (Seq2Seq) generation. For classification tasks, I leaned towards using BERT [8], as it has been widely adopted in text sequence labeling tasks. To further enhance BERT's capabilities, I considered incorporating Conditional Random Fields (CRFs) [10], which are known for their strength in structured prediction tasks. On the Seq2Seq front, I compared the T5 model [11] with BART [9]. I ultimately chose Seq2Seq task and utilized BART due to its superior performance in tasks like summarization, which aligns well with the needs of disfluency correction.
+
+Additionally, I explored the possibility of enhancing these models with Reinforcement Learning from Human Feedback (RLHF), inspired by recent work on applying reinforcement learning to similar tasks [6, 7]. While RLHF seemed promising, after reviewing these studies, I concluded that the potential performance improvements might not justify the increased complexity in my agile development framework. Therefore, I decided to prioritize more straightforward and well-established techniques like BART for this phase of my research, while leaving RLHF as a potential area for future exploration.
+
+
+As BLEU and GLEU scores are widely used for text generation evaluation, I began by assessing the corrected disfluencies using these two metrics [4, 5]. After analyzing the outputs and their corresponding BLEU and GLEU scores, I recognized the limitations of these syntax-based metrics and decided to incorporate a semantic similarity approach for evaluation. For semantic similarity, I considered two options: BERT-score [12] and BART-score [13]. BERT-score calculates text similarity by averaging word-level similarities, which I found insufficient for my needs. BART-score, while a more well-known approach, prompted further research to verify its state-of-the-art status. During this process, I found that Nomic AI [3] offers a more advanced method for calculating semantic similarity, which I adopted. Lastly, I computed confidence intervals for all the scores to ensure statistical robustness [14].
 
 ## Sprint 1
 
@@ -87,11 +92,15 @@ Original Question: [ENETER THE QUESTION HERE]
 
 ## Sprint 2
 
+## Semantic Similarity
 
-## Results Summary
+BERTScore calculates the semantic similarity word-by-word, which is too naive for our case.
+![BERTScore](imgs/bertscore.png)
 
 
-## Future Works
+As of now, NomicAI is the state-of-the-art. nomic-embed-text-v1 is 8192 context length text encoder that surpasses OpenAI text-embedding-ada-002 and text-embedding-3-small performance on short and long context tasks.
+![NomicAI](imgs/nomicAI.png)
+
 
 
 
@@ -110,6 +119,20 @@ Original Question: [ENETER THE QUESTION HERE]
 [6] Exploring the applicability of RL in this task: https://ar5iv.labs.arxiv.org/html/2305.14483
 
 [7] Exploring the applicability of RL in this task: https://ar5iv.labs.arxiv.org/html/2310.08944
+
+[8] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+[9] BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+
+[10] Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data
+
+[11] T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+
+[12] BERTScore: Evaluating Text Generation with BERT
+
+[13] BARTScore: Evaluating Generated Text as Text Generation
+
+[14] An Introduction to the Bootstrap
 
 
 <br>
