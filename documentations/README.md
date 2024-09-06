@@ -13,8 +13,6 @@ Disfluency Correction in Questions
     - [Exploratory Data Analyses](#exploratory-data-analyses)
 - [Sprint 2](#sprint-2)
      - [Semantic Similarity](#semantic-similarity)
-- [Results Summary](#results-summary)
-- [Future Works](#future-works)
 - [References](#references)
 
 
@@ -100,8 +98,6 @@ BERTScore calculates the semantic similarity word-by-word, which is too naive fo
 
 As of now, NomicAI is the state-of-the-art. nomic-embed-text-v1 is 8192 context length text encoder that surpasses OpenAI text-embedding-ada-002 and text-embedding-3-small performance on short and long context tasks.
 ![NomicAI](imgs/nomicAI.png)
-
-
 
 
 ## References
